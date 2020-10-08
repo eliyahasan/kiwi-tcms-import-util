@@ -1,6 +1,6 @@
 class ReadCsv():
 
-    def readCsv(self,pathOfCsv):
+    def readCsv(self, pathOfCsv):
         output = []
         csvFile = open(pathOfCsv, newline='')
         for line in csvFile:
