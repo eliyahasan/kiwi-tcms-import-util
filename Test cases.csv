@@ -1,0 +1,3 @@
+test case summary(str),test steps(str),test data(str),expected behavior (str),is_automated(str "True" or "False")
+summary2, step 1 step 2 step 3, test data, expected 1 expected 2 expected 3, True
+summary2, step 1 step 2 step 3, test data, expected 1 expected 2 expected 3, False
