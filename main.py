@@ -44,7 +44,7 @@ class Main():
 
     def createTestPlan(self):
         test_plan = self.rpc_client.exec.TestPlan.create({
-            'name': 'Foree Mobile App From Script',
+            'name': 'Mobile App From Script',
             'text': 'Function Testing, Integration Testing, Regression Testing',
             'type': 11,  # Performance
             'product': 2,
